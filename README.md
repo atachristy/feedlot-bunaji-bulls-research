@@ -1,7 +1,5 @@
 # Responses of Feedlot Bunaji Bulls to Concentrate Diets Containing Different Levels of Ensiled Cage Layer Chicken Droppings
 
-[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.24317307)
-
 **Authors:** A. A. Wuanor, C. M. Ata, T. T. Ikyume  
 **Journal:** *FUAM Journal of Pure and Applied Sciences (FUAMJPAS)*  
 **Publication Year:** 2025  
@@ -12,9 +10,9 @@
 
 ## Official Links & Archives
 
-* **Zenodo Open-Access Archive (DOI):** https://doi.org/10.5281/zenodo.24317307
-* **Author Google Site / Full PDF:** https://sites.google.com/view/cmata-bunaji-bulls-2025/home/
-* **ORCID Profile:** https://orcid.org/0009-0001-9544-7803
+* 🔗 **Zenodo Open-Access Archive (DOI):** https://doi.org/10.5281/zenodo.24317307
+* 🔗 **Author Google Site / Full PDF:** https://sites.google.com/view/cmata-bunaji-bulls-2025/home/
+* 🔗 **ORCID Profile:** https://orcid.org/0009-0001-9544-7803
 
 ---
 
